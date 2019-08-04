@@ -1,0 +1,33 @@
+[
+
+  {
+    "name": "Basket #1",
+    "description": "This is basket number one. It contains awesome stuff.",
+    "image": "null"
+  },
+  {
+    "name": "Basket #2",
+    "description": "This is basket number two. It contains lame stuff.",
+    "image": "null"
+  },
+  {
+    "name": "Basket #3",
+    "description": "This is basket number three. It contains kind of cool stuff.",
+    "image": "null"
+  },
+  {
+    "name": "Basket #42",
+    "description": "This is basket number forty-two. It contains a towel and the meaning of life.",
+    "image": "null"
+  },
+  {
+    "name": "Basket #4",
+    "description": "This is basket number four. It contains the best stuff.",
+    "image": "null"
+  },
+  {
+    "name": "Basket #5",
+    "description": "This is basket number five. It contains movie watching stuff.",
+    "image": "null"
+  }
+]
