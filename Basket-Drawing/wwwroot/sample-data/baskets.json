@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6b5d5758-1375-468f-b50e-d9b6acf2c627",
+    "name": "Basket #1",
+    "description": "This is basket number one. It contains awesome stuff.",
+    "image": "null"
+  },
+  {
+    "id": "220588de-23d0-47a4-84f9-48be846efb71",
+    "name": "Basket #2",
+    "description": "This is basket number two. It contains lame stuff.",
+    "image": "null"
+  },
+  {
+    "id": "e9133ff5-867c-48c9-bb0f-390af0cc9694",
+    "name": "Basket #3",
+    "description": "This is basket number three. It contains kind of cool stuff.",
+    "image": "null"
+  },
+  {
+    "id": "e8c38afc-a5a8-402e-bfd6-38ce32de920e",
+    "name": "Basket #42",
+    "description": "This is basket number forty-two. It contains a towel and the meaning of life.",
+    "image": "null"
+  },
+  {
+    "id": "96c10c4b-8270-45ed-b200-844bf1eba216",
+    "name": "Basket #4",
+    "description": "This is basket number four. It contains the best stuff.",
+    "image": "null"
+  },
+  {
+    "id": "4663f613-cae2-4d07-895d-5a1d73e774d2",
+    "name": "Basket #5",
+    "description": "This is basket number five. It contains movie watching stuff.",
+    "image": "null"
+  }
+]
